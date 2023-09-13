@@ -87,3 +87,12 @@ class Employee(Person):
         return f'Employee(id={self.__id}, name="{super().name}", email="{super().email}", city="{super().city}", salary={self.__salary})'
 
 
+def factorial(num):
+    if type(num) is not int:
+        raise TypeError('only `int` value is expected')
+
+    f = 1
+    while num > 1:
+        f *= num
+        num -= 1
+    return f
