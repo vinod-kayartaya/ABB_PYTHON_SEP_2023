@@ -1,0 +1,57 @@
+[
+   {
+      "id": "1",
+      "name": "Nicolle Kubek",
+      "gender": "Bigender",
+      "email": "nkubek0@amazon.de",
+      "phone": "+420 (946) 615-0202",
+      "address": "69 Acker Park",
+      "city": "Postupice",
+      "state": "",
+      "country": "Czech Republic"
+   },
+   {
+      "id": "2",
+      "name": "Tori Domniney",
+      "gender": "Female",
+      "email": "tdomniney1@facebook.com",
+      "phone": "+66 (336) 873-7200",
+      "address": "69836 Pearson Alley",
+      "city": "At Samat",
+      "state": "",
+      "country": "Thailand"
+   },
+   {
+      "id": "3",
+      "name": "Jo Syne",
+      "gender": "Male",
+      "email": "jsyne2@nasa.gov",
+      "phone": "+255 (434) 989-9209",
+      "address": "53 Esch Center",
+      "city": "Newala Kisimani",
+      "state": "",
+      "country": "Tanzania"
+   },
+   {
+      "id": "4",
+      "name": "Tilly Spry",
+      "gender": "Female",
+      "email": "tspry3@angelfire.com",
+      "phone": "+86 (172) 527-9583",
+      "address": "78073 Stang Crossing",
+      "city": "Badai",
+      "state": "",
+      "country": "China"
+   },
+   {
+      "id": "5",
+      "name": "Matelda Huckfield",
+      "gender": "Polygender",
+      "email": "mhuckfield4@hostgator.com",
+      "phone": "+62 (287) 455-6852",
+      "address": "9275 Anderson Parkway",
+      "city": "Parapat",
+      "state": "",
+      "country": "Indonesia"
+   }
+]
